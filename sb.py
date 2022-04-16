@@ -434,7 +434,7 @@ def sendTextTemplateMaster(to, text):
               "action": {
                   "type": "uri",
                   "label": "DPK",
-                  "uri": "http://line.me/ti/p/~@cob0606n"
+                  "uri": "https://line.me/R/ti/p/%40642xtzwc"
               }
           }, {
               "flex": 3,
@@ -446,7 +446,7 @@ def sendTextTemplateMaster(to, text):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~@cob0606n"
+                  "uri": "https://line.me/R/ti/p/%40642xtzwc"
               }
           }]
       }]
@@ -469,7 +469,7 @@ def sendStickerTemplate(to, text):
                                   "size": "full", 
                                   "action": {
                                       "type": "uri",
-                                      "uri": "http://line.me/ti/p/~@cob0606n"
+                                      "uri": "https://line.me/R/ti/p/%40642xtzwc"
            }                                                
  }
 ]
@@ -631,7 +631,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n",
+          "uri": "https://line.me/R/ti/p/%40642xtzwc",
         },
         "align": "center"
       },
@@ -648,7 +648,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n"
+          "uri": "https://line.me/R/ti/p/%40642xtzwc"
         },
         "align": "center"
       },
@@ -770,7 +770,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n",
+          "uri": "https://line.me/R/ti/p/%40642xtzwc",
         },
         "align": "center"
       },
@@ -787,7 +787,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n"
+          "uri": "https://line.me/R/ti/p/%40642xtzwc"
         },
         "align": "center"
       },
@@ -909,7 +909,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n",
+          "uri": "https://line.me/R/ti/p/%40642xtzwc",
         },
         "align": "center"
       },
@@ -926,7 +926,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n"
+          "uri": "https://line.me/R/ti/p/%40642xtzwc"
         },
         "align": "center"
       },
@@ -1048,7 +1048,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n",
+          "uri": "https://line.me/R/ti/p/%40642xtzwc",
         },
         "align": "center"
       },
@@ -1065,7 +1065,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n"
+          "uri": "https://line.me/R/ti/p/%40642xtzwc"
         },
         "align": "center"
       },
@@ -1187,7 +1187,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n",
+          "uri": "https://line.me/R/ti/p/%40642xtzwc",
         },
         "align": "center"
       },
@@ -1204,7 +1204,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n"
+          "uri": "https://line.me/R/ti/p/%40642xtzwc"
         },
         "align": "center"
       },
@@ -1326,7 +1326,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n",
+          "uri": "https://line.me/R/ti/p/%40642xtzwc",
         },
         "align": "center"
       },
@@ -1343,7 +1343,7 @@ def clBot(op):
         "color": "#FFFF00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~@cob0606n"
+          "uri": "https://line.me/R/ti/p/%40642xtzwc"
         },
         "align": "center"
       },
@@ -1429,7 +1429,7 @@ def clBot(op):
                                                         "size": "full", 
                                                         "action": {
                                                             "type": "uri",
-                                                            "uri": "http://line.me/ti/p/~@cob0606n"
+                                                            "uri": "https://line.me/R/ti/p/%40642xtzwc"
                                  }                                                
                        }
                       ]
@@ -1457,7 +1457,7 @@ def clBot(op):
                 elif text.lower() == 'about':
                     try:
                         arr = []
-                        owner = "ud296655acef67cbd5e8208e63629f78b"
+                        owner = "uda8195e53e6c6e17f3f745743e477100"
                         creator = cl.getContact(owner)
                         contact = cl.getContact(clMID)
                         grouplist = cl.getGroupIdsJoined()
@@ -2156,7 +2156,7 @@ def clBot(op):
                                         "imageUrl": "https://os.line.naver.jp/os/p/{}".format(ids.mid),
                                         "action": {
                                           "type": "uri",
-                                          "uri": "http://line.me/ti/p/~@cob0606n"
+                                          "uri": "https://line.me/R/ti/p/%40642xtzwc"
                                           }
                                         }
                                       )
@@ -2187,7 +2187,7 @@ def clBot(op):
                                                                 {
                                                                     "type": "uri",
                                                                     "label": "CREATOR",
-                                                                    "uri": "http://line.me/ti/p/~@cob0606n",
+                                                                    "uri": "https://line.me/R/ti/p/%40642xtzwc",
                                                                 }
                                                             ]
                                                         }
@@ -2336,7 +2336,7 @@ def clBot(op):
                                                 "aspectMode": "cover",
                                                 "action": {
                                                     "type": "uri",
-                                                    "uri": "line://nv/profilePopup/mid=u26379f895f9a0af38a66dbc0e76f663c"
+                                                    "uri": "line://nv/profilePopup/mid=uda8195e53e6c6e17f3f745743e477100"
                                                 }
                                             },
                                             "body": {
@@ -2931,7 +2931,7 @@ def clBot(op):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~@cob0606n"
+                  "uri": "https://line.me/R/ti/p/%40642xtzwc"
               }
           }]
       }]
@@ -3008,7 +3008,7 @@ def clBot(op):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~@cob0606n"
+                  "uri": "https://line.me/R/ti/p/%40642xtzwc"
               }
           }]
       }]
