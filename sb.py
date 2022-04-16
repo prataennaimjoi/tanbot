@@ -277,7 +277,7 @@ def Camera(to, text):
                "aspectMode": "cover",
                "action": {
                  "type": "uri",
-                 "uri": "https://line.me/ti/p/~arifistifik"
+                 "uri": "https://line.me/ti/p/~ptatan1983"
                  }
                },
                    "type": "bubble",
